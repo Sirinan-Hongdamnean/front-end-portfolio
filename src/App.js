@@ -142,10 +142,11 @@ function App() {
           <div className="about-text">
             <h2>Welcome to my Portfolio</h2>
             <h1>Sirinan Hongdamnean</h1>
-            <h4>Front -  End Developer (Internship)</h4>
+            <h4>IoT  Developer (Internship)</h4>
             <p>
-              Fourth-year Software Engineering student with strong interest and proficiency in Front-End development for websites and applications. <br /><br />
-              Skilled in team collaboration, with a solid understanding of UI/UX design principles and a strong sense of responsibility. Eager to learn new technologies continuously and committed to developing skills to become a professional Front-End Developer.
+              Fourth-year Software Engineering student with a strong passion for IoT development for connected devices and smart systems. While currently proficient in Front-End development for websites and applications, I am highly motivated to expand my knowledge in IoT technologies, including device connectivity, sensor integration, and user interaction interfaces. <br /><br />
+              Skilled in team collaboration, with a solid understanding of UI/UX design principles, I apply these skills to create user-friendly experiences that effectively complement IoT systems. I am eager to continuously learn and adapt to new technologies, striving to enhance my abilities to work on real-world IoT projects.<br /><br />
+              Committed to growing into a professional IoT Developer who can seamlessly integrate Front-End expertise with IoT solutions to build intelligent, user-centric, and practical systems that make a positive impact.
             </p>
           </div>
         </div>
